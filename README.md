@@ -15,4 +15,4 @@ O design original consite em 5 abas de interação com o usuário:
  - Página de apresentação dos ficheiros
  - About us
 
-
+O design proposto para o front está no documento Lusíada Docs.pdf (SUJEITO A ALTERAÇÕES)
