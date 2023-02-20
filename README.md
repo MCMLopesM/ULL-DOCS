@@ -2,7 +2,7 @@
 Lusíada DOCS | Universidade Lusíada de Lisboa
 
 O proejto tem como objtivo criar um espaço onde os alunos possam encontrar todos os arquivos, testes e frequências em apenas um lugar.
-Visando criar um ambiente de cooperação entre alunos, onde os mesmos podem adicionar/alterar/atualizar os ficheiros já existentes visando manter os conteúdos sempre atualizados.
+Visando criar um ambiente de cooperação entre alunos, onde os mesmos podem adicionar/alterar/atualizar os ficheiros já existentes com o objetivo de manter os conteúdos sempre atualizados.
 
 O projeto está sendo desenvolvido pelo NEIULL (Núcleo de Eng. Informática de Universidade Lusíada de Lisboa).
 
